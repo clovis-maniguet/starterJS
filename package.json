@@ -1,0 +1,29 @@
+{
+  "name": "starterjs",
+  "version": "1.0.0",
+  "description": "My JavaScript starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekyno7/starterJS.git"
+  },
+  "author": "Clovis Maniguet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tekyno7/starterJS/issues"
+  },
+  "homepage": "https://github.com/tekyno7/starterJS#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect-php": "0.0.7",
+    "gulp-sass": "^2.2.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}
